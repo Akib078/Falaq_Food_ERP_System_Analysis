@@ -14,7 +14,7 @@
 
 # 📌 Project Overview
 
-This repository documents my responsibilities and deliverables while working on a custom-built **ERP & CRM system** developed for an e-commerce business.
+This repository documents my responsibilities and deliverables while working on a custom-built **ERP & CRM system** developed for Falaq Food.
 
 The platform integrates multiple departments into a single application, including:
 
@@ -31,18 +31,6 @@ The platform integrates multiple departments into a single application, includin
 - Customer Aftercare
 
 As a **QA Engineer** and **Business Analyst Support**, I collaborated with product owners, developers, and business stakeholders to ensure business requirements were accurately translated into functional software.
-
----
-
-# 🏢 Business Domain
-
-**Industry**
-
-- E-commerce
-- Call Center
-- Order Management
-- Logistics
-- Customer Relationship Management
 
 ---
 
@@ -123,37 +111,6 @@ The ERP system consists of multiple business modules.
 
 ---
 
-# 🔍 Business Analysis Process
-
-My workflow usually followed these steps.
-
-```text
-Understand Business Process
-            │
-            ▼
-Analyze Existing Workflow
-            │
-            ▼
-Discuss With Stakeholders
-            │
-            ▼
-Document Business Logic
-            │
-            ▼
-Write Functional Requirements
-            │
-            ▼
-Write Acceptance Criteria
-            │
-            ▼
-Review With Development Team
-            │
-            ▼
-Development Starts
-```
-
----
-
 # 📝 Functional Requirement Documentation
 
 For every assigned feature I prepared:
@@ -162,25 +119,6 @@ For every assigned feature I prepared:
 - Business Rules
 - Acceptance Criteria
 - Validation Checklist
-
-Example
-
-```
-Feature:
-Create Order
-
-Business Logic
-
-Customer must have a valid phone number.
-
-Only active products are selectable.
-
-Delivery charge depends on shipping zone.
-
-Discount cannot exceed product value.
-
-Order status must be Pending after creation.
-```
 
 ---
 
@@ -282,34 +220,6 @@ Production Verification
 
 ---
 
-# 🧪 Test Scenario Example
-
-### Module
-
-Create Order
-
-### Scenario
-
-Successful Order Creation
-
-### Test Cases
-
-- Verify mandatory fields
-
-- Verify phone validation
-
-- Verify shipping calculation
-
-- Verify product availability
-
-- Verify payment calculation
-
-- Verify order creation
-
-- Verify invoice generation
-
----
-
 # 🐞 Bug Reporting
 
 All bugs were reported using Jira.
@@ -333,44 +243,6 @@ Each bug report included
 - Environment
 
 - Screenshots
-
-Example
-
-```
-Summary
-
-Order cannot be created when discount is applied.
-
-Severity
-
-High
-
-Priority
-
-Critical
-
-Environment
-
-Staging
-
-Steps
-
-Open Create Order
-
-Select Product
-
-Apply Discount
-
-Click Save
-
-Expected
-
-Order created successfully
-
-Actual
-
-500 Internal Server Error
-```
 
 ---
 
@@ -426,49 +298,6 @@ Activities included
 
 - Requirement clarification
 
----
-
-# 🔄 SDLC
-
-```
-Requirement Gathering
-
-↓
-
-Business Analysis
-
-↓
-
-Documentation
-
-↓
-
-Development
-
-↓
-
-QA Testing
-
-↓
-
-Bug Fixing
-
-↓
-
-Regression Testing
-
-↓
-
-UAT
-
-↓
-
-Production Release
-
-↓
-
-Production Verification
-```
 
 ---
 
@@ -564,26 +393,6 @@ Production Verification
 - Supported feature validation before production releases.
 
 - Ensured implemented features matched documented business requirements.
-
----
-
-# 📌 Repository Purpose
-
-This repository demonstrates my professional experience in
-
-- Software Quality Assurance
-
-- Business Analysis
-
-- Functional Documentation
-
-- Requirement Engineering
-
-- Enterprise ERP Testing
-
-- CRM System Validation
-
-without exposing any proprietary company source code or confidential business information.
 
 ---
 
