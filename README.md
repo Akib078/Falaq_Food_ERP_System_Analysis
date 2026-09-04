@@ -67,6 +67,8 @@ Worked closely with stakeholders and developers to analyze business processes an
 - Feature Checklist Preparation
 - Requirement Validation
 
+<img width="1351" height="815" alt="image" src="https://github.com/user-attachments/assets/2d60b9ea-0a5a-493e-9ffb-b3c139e5b126" />
+
 ---
 
 # 📚 Software Modules
