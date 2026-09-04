@@ -222,7 +222,9 @@ Production Verification
 
 # 🐞 Bug Reporting
 
-All bugs were reported using Jira.
+All bugs were reported using Jira & Github board.
+
+<img width="1282" height="826" alt="image" src="https://github.com/user-attachments/assets/a354be75-b79b-4447-8617-21afc2ff9fc9" />
 
 Each bug report included
 
