@@ -1,4 +1,4 @@
-# 🛒 Falaq Food ERP & CRM System Analysis
+# 🛒 Falaq Food ERP & CRM System Testing and Analysis
 
 > A documentation repository showcasing my work as a **QA Engineer** and **Business Analyst Support** on a custom-built ERP & CRM platform used by Falaq Food company.
 
