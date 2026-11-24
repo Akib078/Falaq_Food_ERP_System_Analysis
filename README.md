@@ -30,7 +30,9 @@ The platform integrates multiple departments into a single application, includin
 - Payment Management
 - Customer Aftercare
 
-As a **QA Engineer** and **Business Analyst Support**, I collaborated with product owners, developers, and business stakeholders to ensure business requirements were accurately translated into functional software.
+As a **QA Engineer** and **Product Manager Support**, I collaborated with product owners, developers, and business stakeholders to ensure business requirements were accurately translated into functional software.
+
+<img width="951" height="476" alt="Admin" src="https://github.com/user-attachments/assets/a94b7368-d2ea-4137-b8de-3684ddad2580" />
 
 ---
 
